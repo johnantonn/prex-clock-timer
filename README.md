@@ -48,7 +48,7 @@ Go to the prex-0.9.0 directory and type:
 **make clean**  
 
 ## Application
-Go to the usr/sample directory and create the application folder, name it clock-timer:
+Go to the usr/sample directory and create the application folder, name it clock-timer:  
 **mkdir clock-timer**  
   
 Inside that folder ceate the following files:  
