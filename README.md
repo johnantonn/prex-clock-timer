@@ -74,7 +74,7 @@ Also, append this line to the end of the file:
 *TASKS+= $(SRCDIR)/usr/sample/clock-timer/clock-timer.rt*  
 
 Finally, return to the prex-0.9.0/usr/sample directory and modify the Makefile by adding *clock-timer* at the end of the line:
-*SUBDIR:= alarm balls cpumon bench hello ipc mutex sem task thread \ tetris stopwatch*  
+*SUBDIR:= alarm balls cpumon bench hello ipc mutex sem task thread \ tetris clock-timer*  
   
 Return to the prex-0.9.0 directory and run the commands:  
 **make clean**  
