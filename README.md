@@ -11,7 +11,7 @@ Implementation of a real-time embedded clock-timer running on Prex OS.
 Prex OS, QEMU, Debian OS, gcc cross compilation. 
 
 # Installation steps in Debian
-Prex was build and tested on a Debian 8.6.0 32-bit distribution.
+Prex was built and tested on a Debian 8.6.0 32-bit distribution.
 
 ## Admin privileges
 Provide admin priviledges to the current user.
