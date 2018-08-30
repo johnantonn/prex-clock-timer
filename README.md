@@ -80,7 +80,7 @@ Return to the prex-0.9.0 directory and run the commands:
 **make clean**  
 **make**  
   
-This process will generate the binary named *prexos* in the prex root directory. From now on, if you want to temper with the app's code, you should only change the clock-timer.c file and run **make clean; make** again for the croos compilation process to generate the new *prexos* binary.  
+This process will generate the binary named *prexos* in the prex root directory. From now on, if you want to temper with the app's code, you should only change the clock-timer.c file and run **make clean; make** again for the cross compilation process to generate the new *prexos* binary.  
   
 ## Run on QEMU
 In order to run the generated binary use the QEMU emulator. To install it type the following in the terminal:  
